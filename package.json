@@ -1,6 +1,6 @@
 {
-	"name": "nodejs-stats-reporter",
-	"version": "1.0.0",
+	"name": "@mandreasen/nodejs-stats-reporter",
+	"version": "1.0.1",
 	"description": "Report anonymous usage statistics.",
 	"main": "index.js",
 	"license": "MIT",

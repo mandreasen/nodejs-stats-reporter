@@ -1,6 +1,3 @@
-# nodejs-stats-reporter
-Anonymous usage statistics reporter for my node.js modules.
-
 # Anonymous usage statistics reporter
 This module reports anonymous usage statistics from my node.js modules.
 
